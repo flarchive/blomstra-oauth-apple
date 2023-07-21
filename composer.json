@@ -1,0 +1,44 @@
+{
+    "name": "blomstra/oauth-apple",
+    "description": "Sign in with Apple",
+    "keywords": [
+        "flarum", "apple", "oauth", "sso"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "homepage": "https://blomstra.net",
+    "support": {
+        "source": "https://github.com/blomstra/flarum-ext-oauth-apple",
+        "issues": "https://github.com/blomstra/flarum-ext-oauth-apple/issues",
+        "email": "helpdesk@blomstra.net"
+    },
+    "require": {
+        "flarum/core": "^1.2.0",
+        "fof/oauth": "^1.3",
+        "patrickbussmann/oauth2-apple": "^0.2.6",
+        "firebase/php-jwt": "6.5.0"
+    },
+    "authors": [
+        {
+            "name": "Team Blomstra",
+            "email": "development@blomstra.net",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Blomstra\\OAuthApple\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Sign in with Apple",
+            "category": "feature",
+            "icon": {
+                "name": "fab fa-apple",
+                "backgroundColor": "#EBF1FD",
+                "color": "#3a98d0"
+            }
+        }
+    }
+}
