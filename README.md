@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of blomstra/oauth-apple.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/oauth-apple) or the [upstream repository](https://github.com/blomstra/flarum-ext-oauth-apple).
 
-**0** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/blomstra-oauth-apple/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^1.2.0`
+**5** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/blomstra-oauth-apple/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-05-09 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-oauth-apple/tree/archive/v0.1.0) |
+| `0.1.0-beta.1` | 2022-05-09 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-oauth-apple/tree/archive/v0.1.0-beta.1) |
+| `0.1.1` | 2022-11-16 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-oauth-apple/tree/archive/v0.1.1) |
+| `0.1.2` | 2023-02-01 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-oauth-apple/tree/archive/v0.1.2) |
+| `0.1.3` | 2023-07-21 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-oauth-apple/tree/archive/v0.1.3) |
 
 Catalog entry: [packages/blomstra-oauth-apple.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-oauth-apple.json)
 
